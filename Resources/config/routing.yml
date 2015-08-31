@@ -1,0 +1,3 @@
+daemon_gallery_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: DaemonGalleryBundle:Default:index }
