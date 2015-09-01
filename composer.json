@@ -3,7 +3,7 @@
   "type":        "symfony-bundle",
   "description": "This bundle integrates unitegallery to show images in a gallery",
   "keywords":    ["daemon", "crud", "form", "debug", "symfony", "bundle", "twig"],
-  "homepage":    "http://github.com/Daemon-Development/FilestorageBundle",
+  "homepage":    "http://github.com/Daemon-Development/GalleryBundle",
   "license":     "MIT",
 
   "authors": [
